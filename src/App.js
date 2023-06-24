@@ -3,9 +3,9 @@ import React from 'react';
 function App(){
     return(
         <>
-        <button> Yes </button>
+        <button> Yeah </button>
         <span> 0 </span>
-        <button> No </button>
+        <button> Nope </button>
         </>
     )
 }
